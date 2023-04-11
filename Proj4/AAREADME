@@ -1,0 +1,3 @@
+Optimització usant un SAT solver.
+Seguint l'exemple de minColoring, resol basket i factory.
+Per a factory, s'adjunten tres exemples d'entrada. Dels que tenen "maybe" al nom, no coneixem l'òptim.
